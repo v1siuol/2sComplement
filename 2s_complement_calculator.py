@@ -1,7 +1,7 @@
 """
 计算补数 写得好复杂 looking for a simpler way to approach
 Introduction: Compute 2's complement
-__author__ = visiuol
+__author__ = v1siuol
 __date__ = 2017.2.22
 """
 
